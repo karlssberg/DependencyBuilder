@@ -1,0 +1,12 @@
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\bin\Debug\net5.0\DependencyBuilder.deps.json
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\bin\Debug\net5.0\DependencyBuilder.dll
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\bin\Debug\net5.0\ref\DependencyBuilder.dll
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\bin\Debug\net5.0\DependencyBuilder.pdb
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.csprojAssemblyReference.cache
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.AssemblyInfoInputs.cache
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.AssemblyInfo.cs
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.csproj.CoreCompileInputs.cache
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.dll
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\ref\DependencyBuilder.dll
+C:\Dev\DependencyBuilder\DependencyBuilder\DependencyBuilder\obj\Debug\net5.0\DependencyBuilder.pdb

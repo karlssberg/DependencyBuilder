@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.DependencyBuilder.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Dev\DependencyBuilder\DependencyBuilder\.idea\.idea.DependencyBuilder\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
